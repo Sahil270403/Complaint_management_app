@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IIIT UNA Complaint Management APP</string>
+    <string name="sign_in">Sign In</string>
+    <string name="Welcome">Welcome To IIIT UNA Complaint Management App</string>
+    <string name="signinContinue">Please Sign IN To Continue</string>
+
+
+</resources>
